@@ -125,6 +125,4 @@ const Missions = [
   },
 ];
 
-const mission = Missions;
-
-export default { Missions, mission };
+export default Missions;
