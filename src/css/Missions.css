@@ -1,0 +1,21 @@
+.missions {
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.test {
+  color: white;
+}
+
+.test h2 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.missions div {
+  border: 1px solid palegoldenrod;
+  margin: 5px;
+  text-align: center;
+  width: 300px;
+}

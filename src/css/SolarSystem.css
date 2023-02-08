@@ -1,0 +1,24 @@
+.solar {
+  color: beige;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.solar div {
+  padding-bottom: 20px;
+  padding-left: 80px;
+}
+
+p {
+  font-size: 30px;
+  text-align: center;
+}
+
+.title {
+  color: beige;
+}
+
+.title h2 {
+  font-size: 50px;
+  text-align: center;
+}
