@@ -1,13 +1,11 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h2>Solar System</h2>
+Solar System é uma pagina web desenvolvida como projeto no curso de desenvolvimento web full stack da Trybe.
+O projeto consiste em uma página web onde, mostra uma lista de planetas do sistema Solar, e algumas missões.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+---
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h2>As Linguagens usadas são:</h2>
+<h4>React</h4>
+<h4>HTML</h4>
+<h4>CSS</h4>
+<h4>Javascipt</h4>
